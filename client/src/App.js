@@ -1,7 +1,6 @@
 import React from "react";
 import FileUpload from "./components/FileUpload.js";
 import './App.css';
-import fileUpload from "express-fileupload";
 
 const App=() =>{
   return(
